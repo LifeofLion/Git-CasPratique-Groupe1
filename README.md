@@ -51,7 +51,7 @@ S'il n'y a pas de troisième élève, ces tâches sont à répartir entre les de
 Dans l'étape suivante, résoudre tous les éventuels conflits qui adviennent. Si un conflit advient, le mentionner dans la description du commit (pas l'intitulé mais la description)
   - Ana : fusionner la branche de Ayoub 2 avec sa branche via un merge sans fast-forward
   - Ayoub : fusionner la branche de Léo avec sa branche via un merge avec fast-forward
-  - Léo : lorsque les élèves 1 et 2 ont fini et publié leurs merges, récupérer les deux branches, et les rebase sur la sienne dans l'ordre suivant : branche d'Ana puis branche de Ayoub
+  - Léo : lorsque Ana et Ayoub ont fini et publié leurs merges, récupérer les deux branches, et les rebase sur la sienne dans l'ordre suivant : branche d'Ana puis branche de Ayoub
 
 Une fois ces trois étapes effectuées, sur GitHub :
   - Léo : créer une Pull Request de sa branche vers master et requêter la validation des deux autres élèves
